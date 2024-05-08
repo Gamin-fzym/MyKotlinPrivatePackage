@@ -1,15 +1,15 @@
-package com.randomdt.myprivatepackage
+package com.randomyyds.mylibrary
 
-public class GACalculatee {
+class GACalculate {
 
     // 实例方法：执行加法
-    fun addInstance1(a: Int, b: Int): Int {
+    fun addInstance(a: Int, b: Int): Int {
         return a + b
     }
 
     companion object {
         // 类方法：执行加法
-        fun addStatic1(a: Int, b: Int): Int {
+        fun addStatic(a: Int, b: Int): Int {
             return a + b
         }
     }
