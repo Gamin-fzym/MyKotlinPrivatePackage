@@ -3,6 +3,9 @@ plugins {
     alias(libs.plugins.jetbrainsKotlinAndroid)
 }
 
+group = "com.github.Gamin-fzym"   // 修改为你的 GitHub 用户名
+version = "1.0.5"                  // 版本号
+
 android {
     namespace = "com.randomyyds.mylibrary"
     compileSdk = 34
