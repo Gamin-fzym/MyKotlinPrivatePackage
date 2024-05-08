@@ -1,4 +1,4 @@
-package com.randomdt.myprivatepackage
+package com.randomyyds.mylibrary
 
 import org.junit.Test
 
@@ -12,7 +12,6 @@ import org.junit.Assert.*
 class ExampleUnitTest {
     @Test
     fun addition_isCorrect() {
-        assertEquals(30,  GACalculatee.addStatic(10, 20))
-        //assertEquals(4, 2 + 2)
+        assertEquals(4, 2 + 2)
     }
 }

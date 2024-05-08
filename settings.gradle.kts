@@ -21,3 +21,4 @@ dependencyResolutionManagement {
 
 rootProject.name = "MyPrivatePackage"
 include(":app")
+include(":mylibrary")

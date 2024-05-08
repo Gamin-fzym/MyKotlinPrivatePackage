@@ -1,6 +1,6 @@
 package com.randomdt.myprivatepackage
 
-public class GACalculate {
+public class GACalculatee {
 
     // 实例方法：执行加法
     fun addInstance(a: Int, b: Int): Int {
